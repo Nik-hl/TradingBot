@@ -1,0 +1,6 @@
+This is the plan 
+1) make git repo
+2) add market data
+3) create indicators
+4) use indicators to create signals 
+5) do data analysis on that signal to select best signals
